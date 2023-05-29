@@ -8,6 +8,13 @@ import java.util.*;
 /**
 @author rathorbr
  */
+/**
+ * Student: Britt Rathore
+ * Date modified: 2023-05-28
+ *
+ * Modifications:
+ * - Added the whole working code for the CardTrick class
+ */
 
 public class CardTrick {
     
